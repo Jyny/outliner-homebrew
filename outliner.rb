@@ -1,8 +1,8 @@
 class Outliner < Formula
   desc "CLI tool for Auto setup and deploy outline VPN"
   homepage "https://github.com/Jyny/outliner"
-  url "https://github.com/Jyny/outliner/archive/v0.2.0.tar.gz"
-  sha256 "e1eb2c2e1a4a9f9abdb8e034bbb72a6f232cf2dd77105f13a1a1860211af7fce"
+  url "https://github.com/Jyny/outliner/archive/v0.2.2.tar.gz"
+  sha256 "1ffc4f2be4f183fa0094eb622c19f4b4838dcced071a2cfbce0869e2bee253f3"
   head "https://github.com/Jyny/outliner.git"
 
   depends_on "go" => :build
